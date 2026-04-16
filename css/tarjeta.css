@@ -1,0 +1,27 @@
+.titulo {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 1.5em;
+    text-shadow: red 0 -2px;
+    text-transform: capitalize;
+    text-align: left;
+}
+
+.nombre {
+
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 0.5em;
+    text-shadow: green 0 -2px;
+    text-transform: uppercase;
+    text-align: right;
+}
+
+.descripcion {
+
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1em;
+    text-shadow: blue 1 -2px;
+    text-transform: lowercase;
+    text-align: justify;
+    text-indent: 30px;
+}
