@@ -1,0 +1,70 @@
+h1 {
+    font-size: 60px;
+}
+
+.h1patata {
+    font-size: 20px;
+    text-align: center;
+}
+
+#h1raro {
+    font-size: 25px;
+    text-align: right;
+}
+
+#h1especial {
+    background-color: red;
+}
+
+
+
+h2 {
+    border: 5px solid black;
+}
+
+.h2patata {
+    border: 5px dotted black;
+}
+
+#h2raro {
+    border: 5px dashed black;
+}
+
+#h2especial {
+    border-color: green;
+}
+
+
+li a {
+    text-decoration: overline;
+}
+
+li .apatata {
+    text-decoration: line-through;
+}
+
+#araro {
+    text-decoration: underline;
+}
+
+#aespecial {
+    text-decoration: none;
+}
+
+
+p {
+    border: 5px solid red;
+}
+
+.ppatata {
+    border: 15px dotted green;
+}
+
+#praro {
+    border: 25px dashed blue;
+}
+
+#pespecial {
+    border-width: 50px;
+    border-color: red green blue black;
+}
